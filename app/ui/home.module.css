@@ -1,0 +1,6 @@
+.shape {
+    height: 52;
+    background-color: blue;
+    display: flex;
+    padding: 4;
+  }
